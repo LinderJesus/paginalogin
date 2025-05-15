@@ -132,7 +132,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-Criado por [Seu Nome] - [seu.email@exemplo.com]
+Criado por [Linder Jesus] - [linderpvpcontato@gmail.com]
 
 ---
 
